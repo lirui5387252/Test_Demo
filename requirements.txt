@@ -1,0 +1,6 @@
+pytest
+requests
+pytest-selenium
+selenium
+pytest-allure-adaptor
+allure-pytest
